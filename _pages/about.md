@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi
+Data Scientist, Product Analytics, Advanced Data Insight Analyst, Data Storyteller.
 
 About Me
 ======
-Data Scientist, Product Analytics, Advanced Data Insight Analyst, Data Storyteller.
 
 I pivoted to analytics after 10+ years in marketing and communication. I've always loved math and logic, and I draw on my previous experience when communicating the complex messages we find in data.
 
