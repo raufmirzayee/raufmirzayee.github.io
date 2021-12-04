@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home / About"
+title                    : "Maggie Wolff"
 title_separator          : "-"
 name                     : &name "Maggie Wolff"
 description              : &description "Data Scientist"
