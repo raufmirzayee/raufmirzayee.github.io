@@ -19,4 +19,4 @@ I am especially interested in helping to create better user experiences through 
 
 I'm experienced in Python, R, SQL, Tableau, PowerBI, Adobe Analytics, Adobe Target.
 
-Currently working full-time in the travel technology industry while enrolled in graduate school part-time. I love connecting with other folks in the data science & analytics space as well as other women in tech.
+Currently working full-time in the travel technology industry while enrolled in graduate school part-time. I love connecting with other folks in the data science & analytics space as well as other women in tech. Feel free to connect or contact me via LinkedIn. 
