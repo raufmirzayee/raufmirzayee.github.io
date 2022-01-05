@@ -15,7 +15,7 @@ Women:
 - [WiDS](https://www.widsconference.org/)
 - [WiMLDS](http://wimlds.org/)
 - [PyLadies](https://pyladies.com/)
-- [R-Ladies](https://rladies.org/
+- [R-Ladies](https://rladies.org/)
 
 Data: 
 - [DataTalks.Club](https://datatalks.club)
@@ -23,7 +23,7 @@ Data:
 - [Data Science Salon](https://www.datascience.salon/)
 - [Data Visualization Society](https://www.datavisualizationsociety.org)
 - [Academic Data Science Alliance](https://academicdatascience.org/)
-- [DataXP](https://www.dataxp.ai/sign-up
+- [DataXP](https://www.dataxp.ai/sign-up)
 
 Chicago:
 - [Chicago Tech](http://chicagotech.herokuapp.com/)
