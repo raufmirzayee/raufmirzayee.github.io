@@ -11,20 +11,20 @@ There are so many online communities for women or anyone working in tech, analyt
 A few that I've come across: 
 
 Women:
-- Data Angels: https://twitter.com/data_angels
-- WiDS: https://www.widsconference.org/
-- WiMLDS: http://wimlds.org/ 
-- PyLadies: https://pyladies.com/
-- R-Ladies: https://rladies.org/
+- [Data Angels](https://twitter.com/data_angels)
+- [WiDS](https://www.widsconference.org/)
+- [WiMLDS](http://wimlds.org/)
+- [PyLadies](https://pyladies.com/)
+- [R-Ladies](https://rladies.org/
 
 Data: 
-- DataTalks.Club: https://datatalks.club
-- Locally Optimistic: https://locallyoptimistic.com
-- Data Science Salon: https://www.datascience.salon/
-- Data Visualization Society: https://www.datavisualizationsociety.org 
-- Academic Data Science Alliance: https://academicdatascience.org/
-- DataXP: https://www.dataxp.ai/sign-up
+- [DataTalks.Club](https://datatalks.club)
+- [Locally Optimistic](https://locallyoptimistic.com)
+- [Data Science Salon](https://www.datascience.salon/)
+- [Data Visualization Society](https://www.datavisualizationsociety.org)
+- [Academic Data Science Alliance](https://academicdatascience.org/)
+- [DataXP](https://www.dataxp.ai/sign-up
 
 Chicago:
-- Chicago Tech: http://chicagotech.herokuapp.com/
-- Chicago Python Users Group: https://www.chipy.org/
+- [Chicago Tech](http://chicagotech.herokuapp.com/)
+- [Chicago Python Users Group](https://www.chipy.org/)
