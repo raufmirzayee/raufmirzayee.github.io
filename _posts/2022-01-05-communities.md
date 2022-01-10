@@ -16,6 +16,7 @@ Women:
 - [WiMLDS](http://wimlds.org/)
 - [PyLadies](https://pyladies.com/)
 - [R-Ladies](https://rladies.org/)
+- [Women in Analytics](https://www.womeninanalytics.com/)
 
 Data: 
 - [DataTalks.Club](https://datatalks.club)
