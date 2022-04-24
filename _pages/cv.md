@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Data Science, DePaul University, expected 2022
-  * Coursework: Neural Networks & Deep Learning, Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Fundamentals of Data Science (Machine Learning), Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Mining Big Data (Distributed Computing), Data Visualization
+  * Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Mining Big Data (Distributed Computing), Data Visualization
   * Capstone Project: Analysis and predictive modeling for UtmostU, the signature program of the Network for Young Adult Success. Examined UtmostU’s data collection efforts, explored which metrics best correlate with or predict success (college degree attainment), and provided recommendations on future data collection and program structure.
 * B.S. in Communication, Loyola University Chicago, 2004
 
@@ -36,7 +36,7 @@ Skills
 * Python
   * Pandas, NumPy, MatPlotLib, Seaborn, Scikit, SciPy, TensorFlow, Keras  
 * R
-  * Markdown, dplry, ggplot2, tidyr
+  * Markdown, dplry, ggplot2, tidyr, tseries, lmtest, forecast
 * SQL 
 * Tableau
 * PowerBI
