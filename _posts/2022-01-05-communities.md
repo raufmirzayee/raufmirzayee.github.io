@@ -24,7 +24,7 @@ Data:
 - [Data Science Salon](https://www.datascience.salon/)
 - [Data Visualization Society](https://www.datavisualizationsociety.org)
 - [Academic Data Science Alliance](https://academicdatascience.org/)
-- [DataXP](https://www.dataxp.ai/sign-up)
+- [DataXP](https://dataxp.webflow.io/)
 
 Chicago:
 - [Chicago Tech](http://chicagotech.herokuapp.com/)
