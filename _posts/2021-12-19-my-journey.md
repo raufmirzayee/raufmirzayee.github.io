@@ -10,7 +10,7 @@ Winding up in a data science career is both expected and a surprise to me. Let m
 
 During grammar school and high school, I was always good at math, scoring well in the most advaced courses offered, participating in Mathletes, and quickly picking up what little coding I was exposed to. When I learned HTML (in the 1990s), I was so fascinated that a few lines of code could allow me to communicate with seemingly the entire world. I hoped to have a career as a Webmaster. 
 
-I started college with plans to major in Computer Science. Unfortunately, my first class didn't go well, and I was both bored an intimidated by the thought of continuing that coruse of study and whatever subsequent careeer it would lead to. I envisioned myself as someone who should have an impressive, glamorous career. 
+I started college with plans to major in Computer Science. Unfortunately, my first class didn't go well, and I was both bored and intimidated by the thought of continuing that course of study and whatever subsequent career it would lead to. I envisioned myself as someone who should have an impressive, glamorous career. 
 
 I switched my major to Communication with the hope of working in Public Relations. But as I learned quickly after graduation, most jobs in PR are in pretty unglamorous industries. I also realized I didn't enjoy writing or public speaking, or really anything that was a necessary task in PR or marketing communication. 
 
@@ -18,7 +18,7 @@ However, I had no idea what else to do. I took some classes in the hopes of figu
 
 I transitioned to digital marketing, and with that came some data analysis, which I greatly enjoyed. I was reminded how much I loved math. I learned as much as I could on the job so that I could get the most insight out of what little data was available. That was recognized, and eventually, during a team reorganization, I was moved into a role focused 100% on marketing analytics. 
 
-Luckily, I was working under someone experience in that area, who could start to expose me to (and teach me) what I didn't know about the world of analytics, statistics, and programs like R. Learning R reminded me that I liked writing code and how cool I thought it was that a few lines of code could be so powerful. 
+Luckily, I was working under someone experience in that area, who could start to expose me to what I didn't know about the world of analytics, statistics, and programs like R. Learning R reminded me that I liked writing code and how cool I thought it was that a few lines of code could be so powerful. 
 
 I was fascinated with everything about analytics and I wanted to learn more. I was much more excited by this type of work than I ever was about PR or marketing. 
 
