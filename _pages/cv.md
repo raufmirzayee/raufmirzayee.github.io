@@ -14,7 +14,7 @@ Education
 * M.S. in Data Science, DePaul University, June 2022
   * Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Mining Big Data (Distributed Computing), Data Visualization
   * Capstone Project: Analysis and predictive modeling for UtmostU, the signature program of the Network for Young Adult Success. Examined UtmostU’s data collection efforts, explored which metrics best correlate with or predict success (college degree attainment), and provided recommendations on future data collection and program structure.
-* B.S. in Communication, Loyola University Chicago, May 2004
+* B.A. in Communication, Loyola University Chicago, May 2004
 
 Work experience
 ======
