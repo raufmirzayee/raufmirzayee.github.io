@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &not_margaret
+  username               : &data_maggie
 facebook:
   username               :
   app_id                 :
@@ -99,18 +99,18 @@ author:
   github           : "maggiewolff"
   google_plus      :
   keybase          :
-  instagram        : "data.story.teller"
+  instagram        : 
   impactstory      : 
   lastfm           :
   linkedin         : "magwolff"
-  medium           : "https://data-storyteller.medium.com/"
+  medium           :  
   orcid            :  
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "data_maggie"
+  twitter          :  
   vine             :
   weibo            :
   xing             :
