@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist, Product Analytics, Advanced Data Insight Analyst, Data Storyteller in the Travel Tech industry. 
+Data Scientist, Product Analytics in the Travel Tech industry. 
 
 About Me
 ======
