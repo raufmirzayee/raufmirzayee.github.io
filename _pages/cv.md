@@ -47,6 +47,6 @@ Skills
 Service and Leadership
 ======
 * UtmostU, the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021) 
-* WiDS Chicago Ambassador, Women in Data Science (2022-present) 
-* Mentor/Mentee Organizer, Data Angels (2022-present) 
+* WiDS Chicago Ambassador, Women in Data Science (2022 - present) 
+* Mentor/Mentee Organizer, Data Angels (2022 - present) 
 * Business Volunter for the Arts / Team Lead with the Arts & Business Council of Chicago (2011 - present) 
