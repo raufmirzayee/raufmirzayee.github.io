@@ -16,7 +16,7 @@ Education
   * Capstone Project: Analysis and predictive modeling for UtmostU, the signature program of the Network for Young Adult Success. Examined UtmostU’s data collection efforts, explored which metrics best correlate with or predict success (college degree attainment), and provided recommendations on future data collection and program structure.
 * B.A. in Communication, Loyola University Chicago, May 2004
 
-Work experience
+Work Experience
 ======
 * July 2019 - present: Data Scientist Product Analytics, Egencia
   * Currently part of American Express Global Business Travel, formerly part of Expedia Group
@@ -44,7 +44,9 @@ Skills
 * Google Analytics
 * Adobe Target 
   
-Service and leadership
+Service and Leadership
 ======
 * UtmostU, the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021) 
+* WiDS Chicago Ambassador, Women in Data Science (2022-present) 
+* Mentor/Mentee Organizer, Data Angels (2022-present) 
 * Business Volunter for the Arts / Team Lead with the Arts & Business Council of Chicago (2011 - present) 
