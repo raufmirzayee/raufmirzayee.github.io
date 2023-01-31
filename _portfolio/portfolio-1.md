@@ -1,6 +1,6 @@
 ---
 title: "Recipe Recommender"
-excerpt: "Recipe Recommender created via recipe review data from Food.com using the Sci-Kit Surprise package<br/><img src='/images/500x300.png'>"
+excerpt: "Recipe Recommender created via recipe review data from Food.com using the Sci-Kit Surprise package"
 collection: portfolio
 ---
 
