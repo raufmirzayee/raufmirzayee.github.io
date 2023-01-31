@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Recipe Recommender"
+excerpt: "Recipe Recommender created via recipe review data from Food.com using the Sci-Kit Surprise package<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Project Goals and Tasks
+
+In the space of online food recipes, there are seemingly endless possibilities of new recipes to try. This project seeks to provide accurate recipe rating predictions and recipe recommendations using various methods.
+
+I was responsible for trying collaborative filtering using item- and user-based neighborhood models and matrix factorization models such as KNN, NMF, SVD, and SVDpp algorithms, and evaluated accuracy by using the target variable of recipe rating.
+
+More: https://github.com/maggiewolff/graduate-studies/tree/main/Recipe-Recommender
