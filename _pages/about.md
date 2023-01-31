@@ -23,4 +23,4 @@ I pivoted to analytics over 6 years ago, after working in marketing and communic
 
 Currently working full-time in the travel technology industry. Recently finished my MS in Data Science. Ambassador for Women in Data Science. Currently overseeing a mentorship program via Data Angels, and Slack community for women in data.  
 
-Feel free to connect or contact me via LinkedIn. 
+Feel free to connect with or contact me via LinkedIn. 
