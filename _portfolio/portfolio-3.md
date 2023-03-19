@@ -1,11 +1,11 @@
 ---
 title: "Life Expectancy"
-excerpt: "Predict life expectancy by country based on other health factors, using the Python sci-kit learn package."
+excerpt: "Predict life expectancy by country based on other health factors, using the Python scikit-learn package."
 collection: portfolio
 ---
 
 Project description 
 
-Predict life expectancy and vaccination rates by country based on other health factors, using data from the World Health Organization and the Python sci-kit learn package.
+Predict life expectancy and vaccination rates by country based on other health factors, using data from the World Health Organization and the Python scikit-learn package.
 
 More: [https://github.com/maggiewolff/graduate-studies/tree/main/Life-Expectancy](Life Expectancy on GitHub)
