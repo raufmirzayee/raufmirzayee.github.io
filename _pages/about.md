@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist, Product Analytics in the Travel Tech industry. 
+Product Analytics Data Scientist in the Travel Tech industry. 
 
 About Me
 ======
 
 Naturally curious and observant. Thrives on new challenges and never stops seeking out learning opportunities and sharing knowledge.
 
-I enjoy solving problems with data, whether that's a personal problem, like creating my own recommender spreadsheet to figure out what to wear when running through another chilly Chicago winter, or on the job, creating better user experiences for corporate travel booking. 
+I enjoy solving problems with data, whether that is a personal problem, like creating my own recommender spreadsheet to figure out what to wear when running through another chilly Chicago winter, or on the job, creating better user experiences for corporate travel booking.
 
-My current work typically includes advanced analysis, A/B (hypothesis) testing, predictive analytics, and defining new metrics. I also enjoy knowledge sharing with colleagues and mentoring others. 
+My current work typically includes advanced analysis, A/B (hypothesis) testing, predictive analytics, and defining new metrics. I also enjoy knowledge sharing with colleagues and mentoring others.
 
-I pivoted to analytics over 6 years ago, after working in marketing and communication roles (which included some data analysis) for over a decade. I've always loved math and logic, and I draw on my previous experience when communicating the complex messages we find in data.
+I pivoted to analytics in 2016, after working in marketing and communication roles (which included some data analysis) for over a decade. I've always loved math and logic, and I draw on my previous experience when communicating the complex messages I find in data.
 
-Currently working full-time in the travel technology industry. Recently finished my MS in Data Science. Ambassador for Women in Data Science. Currently overseeing a mentorship program via Data Angels, and Slack community for women in data.  
+Currently working full-time in the travel tech industry analyzing user experiences for a corporate travel booking platform. Recently finished my MS in Data Science. Ambassador for Women in Data Science. Currently overseeing a mentorship program via Data Angels, a Slack community for women in data.
 
 Feel free to connect with or contact me via LinkedIn. 
