@@ -15,7 +15,7 @@ About Me
 
 Naturally curious and observant. Thrives on new challenges and never stops seeking out learning opportunities and sharing knowledge.
 
-I enjoy solving problems with data, whether that is a personal problem, like creating [my own recommender model to figure out what to wear when running through another chilly Chicago winter](https://github.com/maggiewolff/graduate-studies/tree/main/Recipe-Recommender), or on the job, using data to create better user experiences for corporate travel booking.
+I enjoy solving problems with data, whether that is a personal problem, like creating [my own recommender model](https://github.com/maggiewolff/graduate-studies/tree/main/Recipe-Recommender) to figure out what to wear when running through another chilly Chicago winter, or on the job, using data to create better user experiences for corporate travel booking.
 
 My current work typically includes advanced analysis, A/B (hypothesis) testing, predictive analytics, and defining new metrics. I also enjoy knowledge sharing with colleagues and mentoring others.
 
