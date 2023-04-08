@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.S. in Data Science, DePaul University, June 2022
-  * Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Mining Big Data (Distributed Computing), Data Visualization
-  * Capstone Project: Analysis and predictive modeling for UtmostU, the signature program of the Network for Young Adult Success. Examined UtmostU’s data collection efforts, explored which metrics best correlate with or predict success (college degree attainment), and provided recommendations on future data collection and program structure.
-* B.A. in Communication, Loyola University Chicago, May 2004
-
 Work Experience
 ======
 * July 2019 - present: Data Scientist Product Analytics, Egencia
@@ -30,11 +23,21 @@ Work Experience
   
 * January 2012 - June 2013: Digital Marketing Manager, Presence Health
   * Managed all owned digital marketing channels, including social media, email marketing, search engine marketing. Supervised Online Data Coordinator. 
+
+
+Education
+======
+* M.S. in Data Science, DePaul University, June 2022
+  * Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Mining Big Data (Distributed Computing), Data Visualization
+  * Capstone Project: Analysis and predictive modeling for UtmostU, the signature program of the Network for Young Adult Success. Examined UtmostU’s data collection efforts, explored which metrics best correlate with or predict success (college degree attainment), and provided recommendations on future data collection and program structure.
+* B.A. in Communication, Loyola University Chicago, May 2004
+
+
   
 Skills
 ======
 * Python
-  * Pandas, NumPy, MatPlotLib, Seaborn, Scikit, SciPy, TensorFlow, Keras  
+  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn, scikit-surprise, SciPy, TensorFlow, Keras  
 * R
   * Markdown, dplry, ggplot2, tidyr, tseries, lmtest, forecast
 * SQL 
@@ -46,7 +49,7 @@ Skills
   
 Service and Leadership
 ======
-* UtmostU, the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021) 
 * WiDS Chicago Ambassador, Women in Data Science (2022 - present) 
 * Mentor/Mentee Organizer, Data Angels (2022 - present) 
+* UtmostU, the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021) 
 * Business Volunter for the Arts / Team Lead with the Arts & Business Council of Chicago (2011 - present) 
