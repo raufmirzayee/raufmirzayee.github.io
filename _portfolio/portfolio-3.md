@@ -4,8 +4,6 @@ excerpt: "Predict life expectancy by country based on other health factors, usin
 collection: portfolio
 ---
 
-Project description 
+Project description: Predict life expectancy and vaccination rates by country based on other health factors, using data from the World Health Organization and the Python scikit-learn package.
 
-Predict life expectancy and vaccination rates by country based on other health factors, using data from the World Health Organization and the Python scikit-learn package.
-
-More: [https://github.com/maggiewolff/graduate-studies/tree/main/Life-Expectancy](Life Expectancy on GitHub)
+More: [Life Expectancy on GitHub](https://github.com/maggiewolff/graduate-studies/tree/main/Life-Expectancy)
