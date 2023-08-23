@@ -1,7 +1,7 @@
 ---
 title: 'Online Communities'
-date: 2022-01-05
-permalink: /posts/2022/01/online-communities/
+date: 2023-08-01
+permalink: /posts/2023/08/online-communities/
 tags:
   - community
 ---
@@ -11,7 +11,7 @@ There are so many online communities for women or anyone working in tech, analyt
 A few that I've come across: 
 
 Women:
-- [Data Angels](https://twitter.com/data_angels)
+- [Data Angels](http://dataangels.org/)
 - [WiDS](https://www.widsconference.org/)
 - [WiMLDS](http://wimlds.org/)
 - [PyLadies](https://pyladies.com/)
@@ -21,11 +21,15 @@ Women:
 Data: 
 - [DataTalks.Club](https://datatalks.club)
 - [Locally Optimistic](https://locallyoptimistic.com)
-- [Data Science Salon](https://www.datascience.salon/)
+- [Data Science Salon](https://info.datascience.salon/apply-to-dss-slack-workspace)
 - [Data Visualization Society](https://www.datavisualizationsociety.org)
 - [Academic Data Science Alliance](https://academicdatascience.org/)
+
+Aspiring Data Folks: 
 - [DataXP](https://dataxp.webflow.io/)
+- [Analytics Mentor](https://discord.com/invite/qtqF5YbArd)
 
 Chicago:
-- [Chicago Tech](http://chicagotech.herokuapp.com/)
+- [Chicago Tech](http://www.chicagotechslack.com/)
 - [Chicago Python Users Group](https://www.chipy.org/)
+- [Chicago Data Community](https://www.linkedin.com/groups/14156219/)
