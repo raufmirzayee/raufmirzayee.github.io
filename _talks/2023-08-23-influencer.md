@@ -2,7 +2,7 @@
 title: "Social Media Partnerships"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-08-23-influencer
+permalink: /talks/2023-08-01-influencer
 event: "TBD"
 date: 2023-08-23
 location: "TBD"
