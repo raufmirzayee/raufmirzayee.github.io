@@ -8,10 +8,14 @@ date: 2023-08-23
 location: "TBD"
 ---
 
+Interested in social media coverage for your upcoming event or conference? 
+
 Currently, I have: 
 - 31,000 followers on [TikTok](https://www.tiktok.com/@data_storyteller)
 - 3,300 followers on [Instagram](https://www.instagram.com/data.story.teller)
 - 3,100 followers on [LinkedIn](https://www.linkedin.com/in/magwolff/)
+
+My content is focused on a career in analytics and data science, my followers are students, professionals, and career changers interested in or already working as a Data Analyst or Data Scientist. 
 
 What I can offer: 
 - Promote your conference or event in advance via social media
