@@ -20,9 +20,10 @@ My content is focused on career tips for analytics and data science, my follower
 I'm also especially interested in supporting women in analytics and data science and creating visibility for women in this field. 
 
 What I can offer: 
-- Promote your conference or event in advance via social media
-- Attend your conference or event and post content during the event
-- Do a live stream with one of your speakers 
+- Promote your event in advance via my social media channels 
+- Attend your event and create social media content for my channels or yours 
+- Create UGC (user-generated content) for your social media channels  
+- Do a live stream on my channel or yours with your speakers or event staff
 - Give a talk or participate in a panel on topics such as networking, personal branding, career pivots, and product analytics
 
 Contact me via runs.on.data@gmail.com to dicuss further. 
