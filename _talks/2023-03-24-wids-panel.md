@@ -12,3 +12,5 @@ location: "Chicago, IL"
 - Location: Chicago, IL
 
 Moderated a 30-minute panel of three data scientists answering questions from an audience of 200 students and professionals on personal branding, career development, and more. 
+
+Also helped organize the event as a local ambassador for Women in Data Science Worldwide. 
