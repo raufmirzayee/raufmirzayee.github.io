@@ -1,7 +1,12 @@
 ---
-Social Media partnership 
+title: "Social Media Partnerships"
+collection: talks
+type: "Talk"
+permalink: /talks/2023-08-23-influencer
+event: "TBD"
+date: 2023-08-23
+location: "TBD"
 ---
-
 
 Currently, I have: 
 - 31,000 followers on [TikTok](https://www.tiktok.com/@data_storyteller)
