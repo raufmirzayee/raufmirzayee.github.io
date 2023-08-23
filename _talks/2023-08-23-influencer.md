@@ -11,7 +11,7 @@ location: "TBD"
 Interested in social media coverage for your upcoming event or conference? 
 
 Currently, I have: 
-- 31,000 followers on [TikTok](https://www.tiktok.com/@data_storyteller)
+- 31,300 followers on [TikTok](https://www.tiktok.com/@data_storyteller)
 - 3,300 followers on [Instagram](https://www.instagram.com/data.story.teller)
 - 3,100 followers on [LinkedIn](https://www.linkedin.com/in/magwolff/)
 
