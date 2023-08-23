@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-08-01-influencer
 event: "TBD"
-date: 2023-08-23
+date: 2023-08-01
 location: "TBD"
 ---
 
