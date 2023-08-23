@@ -26,4 +26,4 @@ What I can offer:
 - Do a live stream on my channel or yours with your speakers or event staff
 - Give a talk or participate in a panel on topics such as networking, personal branding, career pivots, and product analytics
 
-Contact me via runs.on.data@gmail.com to dicuss further. 
+Contact me via [runs.on.data@gmail.com](mailto:runs.on.data@gmail.com) to dicuss further. 
