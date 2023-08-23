@@ -15,7 +15,9 @@ Currently, I have:
 - 3,300 followers on [Instagram](https://www.instagram.com/data.story.teller)
 - 3,100 followers on [LinkedIn](https://www.linkedin.com/in/magwolff/)
 
-My content is focused on a career in analytics and data science, my followers are students, professionals, and career changers interested in or already working as a Data Analyst or Data Scientist. 
+My content is focused on career tips for analytics and data science, my followers are students, professionals, and career changers interested in or already working as a Data Analyst or Data Scientist. 
+
+I'm also especially interested in supported women in analytics and data science and creating visibility for women in this field. 
 
 What I can offer: 
 - Promote your conference or event in advance via social media
