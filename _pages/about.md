@@ -17,7 +17,7 @@ Naturally curious and observant. Thrives on new challenges and never stops seeki
 
 I enjoy solving problems with data, whether that is a personal problem, like creating [my own recommender model](https://github.com/maggiewolff/graduate-studies/tree/main/Recipe-Recommender) to figure out what to wear when running through another chilly Chicago winter, or on the job, using data to create better user experiences for corporate travel booking.
 
-My current work typically includes advanced analysis, A/B (hypothesis) testing, predictive modeling, and defining new metrics. I also enjoy mentoring and also [knowledge sharing](/_talks) with colleagues and others in the industry.
+My current work typically includes advanced analysis, A/B (hypothesis) testing, predictive modeling, and defining new metrics. I also enjoy mentoring and also [knowledge sharing](/talks/) with colleagues and others in the industry.
 
 I pivoted to analytics in 2016, after working in marketing and communication roles (which included some data analysis) for over a decade. I've always loved math and logic, and I draw on my previous experience when communicating the complex messages I find in data.
 
