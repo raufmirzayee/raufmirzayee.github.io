@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "GBTA Chicago October Meeting"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-10-23-gbta-panel
