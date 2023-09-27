@@ -15,4 +15,4 @@ Moderated a 30-minute panel of three data scientists answering questions from an
 
 Also helped organize the event as a local ambassador for Women in Data Science Worldwide. 
 
-<img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/widschicago_audience.jpg" height="400"> <img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/widschicago_panel.jpg" height="400">
+<img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/widschicago_panel_400.jpg"> <img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/widschicago_audience_400.jpg"> 
