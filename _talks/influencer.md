@@ -2,20 +2,19 @@
 title: "Social Media Partnerships"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-01-01-influencer
+permalink: /talks/influencer
 event: "TBD"
-date: 2023-01-01
 location: "TBD"
 ---
 
 Interested in social media coverage for your upcoming event or conference? 
 
 Currently, I have: 
-- 31,300 followers on [TikTok](https://www.tiktok.com/@data_storyteller)
-- 3,300 followers on [Instagram](https://www.instagram.com/data.story.teller)
-- 3,100 followers on [LinkedIn](https://www.linkedin.com/in/magwolff/)
-- 1,000 subscribers to my [Newsletter](https://datastoryteller.substack.com/)
-- 900 followers on [Medium](https://data-storyteller.medium.com/)
+- 31,900 followers on [TikTok](https://www.tiktok.com/@data_storyteller)
+- 3,400 followers on [Instagram](https://www.instagram.com/data.story.teller)
+- 3,200 followers on [LinkedIn](https://www.linkedin.com/in/magwolff/)
+- 1,100 subscribers to my [Newsletter](https://datastoryteller.substack.com/)
+- 1,000 followers on [Medium](https://data-storyteller.medium.com/)
 
 Who am I?
 - Pivoted from marketing to analytics/data science roles in 2016
