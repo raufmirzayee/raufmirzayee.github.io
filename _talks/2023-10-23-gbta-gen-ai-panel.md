@@ -9,6 +9,7 @@ location: "Rosemont, IL"
 ---
 
 - Event: [GBTA Chicago October Meeting](https://chicagobta.org/meetinginfo.php?id=154&ts=1694011520)
+- Local chapter of the Global Business Travel Association
 - Location: Rosemont, IL
 
 Participate in panel on Generative A.I. in corporate travel 
