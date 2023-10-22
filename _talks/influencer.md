@@ -10,10 +10,10 @@ location: "TBD"
 Interested in social media coverage for your upcoming event or conference? 
 
 Currently, I have: 
-- 31,900 followers on [TikTok](https://www.tiktok.com/@data_storyteller)
-- 3,400 followers on [Instagram](https://www.instagram.com/data.story.teller)
-- 3,200 followers on [LinkedIn](https://www.linkedin.com/in/magwolff/)
-- 1,100 subscribers to my [Newsletter](https://datastoryteller.substack.com/)
+- 32,000 followers on [TikTok](https://www.tiktok.com/@data_storyteller)
+- 3,700 followers on [LinkedIn](https://www.linkedin.com/in/magwolff/)
+- 3,500 followers on [Instagram](https://www.instagram.com/data.story.teller)
+- 1,200 subscribers to my [Newsletter](https://datastoryteller.substack.com/)
 - 1,000 followers on [Medium](https://data-storyteller.medium.com/)
 
 Who am I?
