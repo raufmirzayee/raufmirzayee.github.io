@@ -8,8 +8,7 @@ date: 2023-10-23
 location: "Rosemont, IL"
 ---
 
-- Event: [GBTA Chicago October Meeting](https://chicagobta.org/meetinginfo.php?id=154&ts=1694011520)
-- Local chapter of the Global Business Travel Association
+- Event: [Global Business Travel Association Chicago October Meeting](https://chicagobta.org/meetinginfo.php?id=154&ts=1694011520)
 - Location: Rosemont, IL
 
-Participate in panel on Generative A.I. in corporate travel 
+Participated in panel on Generative A.I. in corporate travel. 
