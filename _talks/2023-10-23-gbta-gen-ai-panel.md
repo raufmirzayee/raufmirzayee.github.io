@@ -11,4 +11,4 @@ location: "Rosemont, IL"
 - Event: [Global Business Travel Association Chicago October Meeting](https://chicagobta.org/meetinginfo.php?id=154&ts=1694011520)
 - Location: Rosemont, IL
 
-Participated in panel on Generative A.I. in corporate travel. 
+Participated in a 1-hour panel with two other panelist on the topic of Generative A.I. in corporate travel. Event attended by 80 professionals working in corporate travel management, travel supply, and travel buying. 
