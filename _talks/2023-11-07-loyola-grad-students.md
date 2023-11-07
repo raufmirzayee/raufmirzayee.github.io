@@ -8,9 +8,9 @@ date: 2023-11-07
 location: "Rosemont, IL"
 ---
 
-- Event: Speaking to graduate students during their Data Science Capstone class at Loyola University Chicago 
+- Event: Spoke to graduate students during their Data Science Capstone class at Loyola University Chicago 
 - Location: Chicago, IL
 
-Gave a 40-minute prentation followed by a Q&A for graduate students at Loyola University Chicago. Talked about my career path, what I do at my job, and career advice. 
+Gave a 40-minute presentation followed by a Q&A for graduate students at Loyola University Chicago. Talked about my career path, what I do at my job, and career advice. 
 
 <img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/maggie-wolff-loyola_350.jpg">  
