@@ -13,4 +13,4 @@ location: "Rosemont, IL"
 
 Gave a 40-minute prentation followed by a Q&A for graduate students at Loyola University Chicago. Talked about my career path, what I do at my job, and career advice. 
 
-<img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/maggie-wolff-loyola_350.jpg"> <img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/maggie-wolff-loyola_350.jpg"> 
+<img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/maggie-wolff-loyola_350.jpg">  
