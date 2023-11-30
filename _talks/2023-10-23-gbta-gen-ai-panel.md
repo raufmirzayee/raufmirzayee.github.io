@@ -12,3 +12,6 @@ location: "Rosemont, IL"
 - Location: Rosemont, IL
 
 Participated in a 1-hour panel with two other panelist on the topic of Generative A.I. in corporate travel. Event attended by 80 professionals from the Chicago region working in corporate travel management, travel supply, and travel buying. 
+
+
+<img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/GBTA_panel.jpg"> <img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/GBTA_group.jpg"> 
