@@ -12,8 +12,8 @@ Interested in having me speak at your upcoming event or conference?
 Who am I?
 - Data Scientist in the travel tech industry
 - Experienced in product analytics, experimentation, predictive modeling, data visualization, reporting & insights, metrics definition 
-- Finished a Master of Science in Data Science in 2022 (completed part-time while working full-time)
 - Working in analytics & data science since 2016
+- Finished a Master of Science in Data Science in 2022 (completed part-time while working full-time)
 - Prior career in marketing, have experience on the business/stakeholder side 
 - Reside in Chicago, IL
 - Well-connected to numerous data and tech communities in Chicago and online
