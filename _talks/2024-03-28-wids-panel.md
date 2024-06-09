@@ -11,7 +11,7 @@ location: "Chicago, IL"
 - Event: [Women in Data Science Chicago](https://widschicago.org/)
 - Location: Chicago, IL
 
-Moderated a 30-minute panel of three data scientists answering questions from an audience of 200 students and professionals on the topic of AI. 
+Moderated a 30-minute panel of three data scientists in front of an audience of 200 students and professionals on the topic of AI, specifically use cases, ethics, and how to prepare your business to use AI. 
 
 Also helped organize the event as a local ambassador for Women in Data Science Worldwide. 
 
