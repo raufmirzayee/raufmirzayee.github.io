@@ -49,6 +49,7 @@ Skills
   
 Service and Leadership
 ======
+* Organizer and Social Media Manager, [MeasureCamp Chicago](https://chicago.measurecamp.org/) (2024 - present)
 * WiDS Chicago Ambassador, [Women in Data Science](https://www.widsconference.org/) (2022 - present) 
 * Mentor/Mentee Organizer, [Data Angels](http://dataangels.org/) (2022 - present) 
 * [UtmostU](https://www.utmostu.org/), the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021) 
