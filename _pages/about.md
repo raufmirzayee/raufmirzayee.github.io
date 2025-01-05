@@ -8,19 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist focused on Product Analytics in the Travel Tech industry. 
+Data Scientist focused on Product Analytics currently in the Travel Tech industry. 
 
 About Me
 ======
 
-Naturally curious and observant. Thrives on new challenges and never stops seeking out learning opportunities and sharing knowledge.
+I've always been a very literal person with an analytical brain. Despite a love of math and coding when I was a teenager (I went to the Math Olympics in elementary school and was on Mathletes in high school), I took a detour in college and studied communication, and started my career in marketing and public relations. It sounded glamorous and exciting but turned out to be a bad fit for my natural abilities. I kept gravitating towards more technical responsibilities, eventually finding myself in a marketing analytics role in 2016 - and absolutely loving it. 
 
-I enjoy solving problems with data, whether that is a personal problem, like creating [my own recommender model](https://github.com/maggiewolff/running_clothes_recommender) to figure out what to wear when running through another chilly Chicago winter, or on the job, using data to create better user experiences. Recently I looked at the impact of [user effort on business outcomes](https://github.com/maggiewolff/user-effort-index/blob/main/IDEAL%20-%20Maggie%20Wolff%20-%20User%20Effort.pdf). 
+My liberal arts background meant I had many skill gaps required for an analytics career, so I enrolled in a graduate program part-time while working full-time, to learn everything I possibly could about working with data. 
 
-My current work typically includes advanced analysis, A/B (hypothesis) testing, predictive modeling, and defining new metrics. I also enjoy mentoring and [knowledge sharing](/talks/) with colleagues and others in the industry.
+Learning data science and working in analytics has been a perfect fit for my calculator brain which has also developed an interest in how we communicate and translate ideas for various audiences. I also enjoy taking on new challenges and learning opportunities - thankfully, there is no shortage in the field of data science.
 
-I pivoted to analytics in 2016, after working in marketing and communication roles (which included some data analysis) for a decade. I've always loved math and logic, and I draw on my previous experience when communicating the complex messages I find in data.
+My current work focuses on product analytics and typically includes advanced analysis, A/B (hypothesis) testing, predictive modeling, and defining new metrics. Recently I looked at the impact of [user effort on business outcomes](https://github.com/maggiewolff/user-effort-index/blob/main/IDEAL%20-%20Maggie%20Wolff%20-%20User%20Effort.pdf). I also enjoy mentoring and [knowledge sharing](/talks/) with colleagues and others in the industry. 
 
-Currently working in the travel tech industry analyzing user experiences for a corporate travel booking platform. Holds an MS in Data Science. Ambassador for [Women in Data Science (WiDS)](http:/www.widsconference.org). Organizer for [MeasureCamp Chicago](https://chicago.measurecamp.org/). Also oversees a mentorship program via [Data Angels](http://dataangels.org/), a Slack community for women in data.
+In my spare time, I like solving my own personal problems with data, such as creating [my own recommender model](https://github.com/maggiewolff/running_clothes_recommender) to figure out what to wear when running through another chilly Chicago winter. 
+
+I'm currently working in the travel tech industry analyzing user experiences for a corporate travel booking platform. I have an MS in Data Science (plus that BA in Communication). I'm an ambassador for [Women in Data Science (WiDS)](http:/www.widsconference.org), an organizer for [MeasureCamp Chicago](https://chicago.measurecamp.org/), and help oversee a mentorship program for [Data Angels](http://dataangels.org/), a Slack community for women in data.
+
+In my free time, I dance (and occasionally perform) with the [Chicago Chorus Girls project](https://www.instagram.com/chicagochorusgirls/) and work out with [November Project Chicago](https://www.instagram.com/novemberprojectchicago/). 
 
 Feel free to connect with or contact me via [LinkedIn](https://www.linkedin.com/in/magwolff). 
