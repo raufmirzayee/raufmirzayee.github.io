@@ -1,9 +1,13 @@
 ---
-title: "Life Expectancy"
-excerpt: "Predict life expectancy by country based on other health factors, using the Python scikit-learn package."
-collection: portfolio
+
+title: "Afghan Number Plate Dataset & Fake Plate Generation"  
+excerpt: "Created a dataset of Afghan number plates and generated synthetic plates for data augmentation and machine learning training."  
+collection: portfolio  
+
 ---
 
-Project description: Predict life expectancy and vaccination rates by country based on other health factors, using data from the World Health Organization and the Python scikit-learn package.
+**Project Description:** To improve the accuracy of our Automatic Number Plate Recognition (ANPR) system for Afghan number plates, I created a dataset and generated synthetic (fake) number plates using data augmentation techniques. This enhanced the diversity of the dataset and improved the model's performance in detecting real-world variations.  
 
-More: [Life Expectancy on GitHub](https://github.com/maggiewolff/graduate-studies/tree/main/Life-Expectancy)
+**More:** [Afghan Number Plate Dataset on Kaggle](https://www.kaggle.com/datasets/abdulraufmirzayee/afghanistan-number-plates)  
+
+---
