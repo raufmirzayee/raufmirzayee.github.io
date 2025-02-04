@@ -4,7 +4,7 @@ collection: teaching
 type: "English course"
 permalink: /teaching/2018-spring-teaching-1
 venue: "Dasht-e-Barchi, 20 Metra"
-date: 2018 - 2022
+date: 2018-03-01
 location: "Kabul, Afghanistan"
 ---
 
