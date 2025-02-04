@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}  
+{% include base_path %}
+
 
 ## ABOUT ME  
 I graduated from Kabul University with a Bachelor's degree in Information Systems, focusing on Technology and Data Science. My academic interests include data structures, machine learning, web design, and mobile app development. I've also earned Google Data Analytics and IBM Data Science certifications, which have enhanced my skills in data analysis, visualization, and digital marketing analytics.  
