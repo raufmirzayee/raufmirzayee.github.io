@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Abdul Rauf Mirzayee"
 title_separator          : "-"
-name                     : &name "Abdul Rauf Mirzayee"
+name                     : "Abdul Rauf Mirzayee"
 description              : &description "A passionate Data Scientest and software engineer"
 url                      : https://raufmirzayee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
