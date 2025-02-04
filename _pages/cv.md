@@ -1,4 +1,4 @@
-
+---
 layout: archive
 title: "CV/Resume"
 permalink: /cv/
