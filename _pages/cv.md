@@ -1,11 +1,11 @@
 
+layout: archive
+title: "CV/Resume"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
-layout: archive  
-title: "CV/Resume"  
-permalink: /cv/  
-author_profile: true  
-redirect_from:  
-- /resume  
 
 {% include base_path %}  
 
@@ -108,5 +108,3 @@ I am proficient in Python and Java, with a keen interest in solving complex prob
 
 - **Strolling** – Enjoy taking leisurely walks to improve health and appreciate nature.  
 - **Swimming** – Favorite way to stay active, relieve stress, and enjoy water activities.  
-
----
